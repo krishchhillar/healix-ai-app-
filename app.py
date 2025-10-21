@@ -52,7 +52,7 @@ st.markdown("""
     /* Response cards */
     .response-card {
         background-color: #FFFFFF;
-        border-radius: 0.75rem;
+        border-radius: 0.74rem;
         padding: 1.5rem;
         margin-top: 1rem;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
