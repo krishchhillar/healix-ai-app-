@@ -18,7 +18,7 @@ st.markdown("""
 <style>
     /* Main app background */
     .stApp {
-        background-color: #F0F2F6;
+        background-color: #F0F2F5;
     }
     /* Main content area */
     .main .block-container {
