@@ -22,10 +22,10 @@ st.markdown("""
     }
     /* Main content area */
     .main .block-container {
-        padding-top: 2rem;
-        padding-bottom: 2rem;
-        padding-left: 5rem;
-        padding-right: 5rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        padding-left: 6rem;
+        padding-right: 6rem;
     }
     /* Main title and subtitle text color */
     .stApp h1, .stApp .stMarkdown p {
@@ -39,7 +39,7 @@ st.markdown("""
     }
     /* Button styling */
     .stButton>button {
-        background-color: #008BFF;
+        background-color: #007BFF;
         color: white;
         border-radius: 0.5rem;
         border: none;
